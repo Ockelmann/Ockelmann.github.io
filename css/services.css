@@ -1,0 +1,41 @@
+.container-monitor{
+    margin: 8% 15% 5% 15%;
+    text-align: center;
+}
+
+.container-monitor h1{
+    color: #FFD051;
+    font-size: 25px;
+    padding-bottom: 40px;
+}
+
+.card{
+    float: left;
+}
+
+.container-iconos{
+    margin: 0 15% 0 25% ;
+    padding-bottom: 5%;
+}
+
+.card-body p{
+    padding: 15% 0 8% 5%;
+}
+
+.online{
+    margin-left: 15%;
+    color: #045184;
+}
+
+.calendario a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.calendario{
+    width: 25%;
+    background-color:  #045184;
+    margin: 0 37.5% 5% 37.5%;
+    text-align: center;
+}

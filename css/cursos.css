@@ -1,0 +1,23 @@
+.curso{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.curso h1{
+    color: #3D9BE9;
+    size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.curso h2{
+    color: #A0A09F;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    size: 26px;
+
+}
+
+.calendario{
+    width: 100%;
+    text-align: center;
+    padding: 5% 0 5% 0;
+}

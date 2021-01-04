@@ -1,0 +1,94 @@
+.container-producto{
+    margin-top: 65px;
+    width: 100%;
+    height: auto;
+    background-color: #045184;
+}
+
+.opciones{
+    color: #ffffff;
+    margin: 10px 0 0 50px;
+}
+
+.a-opciones{
+    float: right;
+    margin: -30px 0 0 0;
+    padding-bottom: 35px;
+    width: 400px;
+}
+
+.a-opciones a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 15px;
+
+}
+.opciones h2{
+    font-size: 35px;
+}
+
+.opciones h4{
+    font-size: 18px;
+}
+
+.container-grcorm{
+    margin: 5% 15% 5% 15%;
+}
+
+.container-grcorm h3{
+    font-size: 15px;
+}
+
+.container-grcorm h1{
+    font-size: 30px;
+}
+.container-grcorm p{
+    text-align: justify;
+    font-size: 15px;
+}
+
+.ventajas-beneficios ul{
+    list-style-position: inside;
+    font-size: 13px;
+}
+
+.container-info{
+    width: 90%;
+    margin: 5px auto;
+}
+
+.container-info ul{
+    font-size: 15px;
+    text-align: left;
+}
+
+.row{
+    display: flex; 
+    flex: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+ }
+ 
+ .card{
+     width: 80%;
+     background: #ffffff;
+     margin-bottom: 50px;
+ }
+ 
+ .card-header{
+     text-align: center;
+ }
+ 
+ .card-body{
+     padding: 15px 5px;
+     text-align: left;
+     font-size: 18px;
+ }
+ 
+ .parrafo{
+    margin: 5% 10% 5% 10%;
+ }
+
+ .card{
+     width: 20%;
+ }

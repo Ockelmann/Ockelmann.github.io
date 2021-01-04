@@ -1,0 +1,23 @@
+.container-info{
+    margin: 8% 15% 2% 15%;
+    text-align: justify;
+}
+
+.container-inf{
+    margin: 2% 15% 5% 15%;
+    text-align: justify;
+}
+
+.container-info a{
+    text-decoration: none;
+    color: #3D9BE9;
+}
+
+ul{
+    list-style-position: inside;
+    font-size: 14px;
+}
+
+p{
+    font-size: 15px;
+}

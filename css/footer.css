@@ -1,0 +1,21 @@
+footer{
+    background: #1a1a1a;
+    padding: 24px;
+    color: #ffffff;
+}
+
+.container_text_footer{
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+footer h1{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+footer span{
+    color: #ffffff;
+}

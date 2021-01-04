@@ -1,0 +1,80 @@
+.container-producto{
+    margin-top: 65px;
+    width: 100%;
+    height: auto;
+    background-color: #045184;
+}
+
+.opciones{
+    color: #ffffff;
+    margin: 10px 0 0 50px;
+}
+
+.a-opciones{
+    float: right;
+    margin: -30px 0 0 0;
+    padding-bottom: 35px;
+    width: 400px;
+}
+
+.a-opciones a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 15px;
+
+}
+.opciones h2{
+    font-size: 35px;
+}
+
+.opciones h4{
+    font-size: 18px;
+}
+
+.container-auditoria{
+    margin: 5% 15% 2% 15%;
+    text-align: justify;
+    font-size: 15px;
+}
+
+.ventajas{
+    margin-top: 2%;
+}
+
+.ventajas ul{
+    font-size: 14px;
+}
+
+.container-info{
+    width: 90%;
+    margin: 5px auto;
+}
+
+.container-info ul{
+    font-size: 15px;
+    text-align: left;
+}
+
+.row{
+    display: flex; 
+    flex: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+ }
+ 
+ .card{
+     width: 80%;
+     background: #ffffff;
+     margin-bottom: 50px;
+ }
+ 
+ .card-header{
+     text-align: center;
+ }
+ 
+ .card-body{
+     padding: 15px 5px;
+     text-align: left;
+     font-size: 18px;
+ }
+
